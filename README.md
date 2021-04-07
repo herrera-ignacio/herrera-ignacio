@@ -82,7 +82,7 @@ I'm Ignacio Herrera, a self-taugh engineer, passionate about cybersecurity, dogs
       <br>Ubuntu
     </td>
     <td align="center" width="96">
-      <img src="./assets/kali.svg" width="48" height="48" alt="Kali" />
+      <img src="./assets/kali.png" width="48" height="48" alt="Kali" />
       <br>Kali
     </td>
     <td align="center" width="96"> 
