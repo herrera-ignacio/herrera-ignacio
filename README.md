@@ -66,11 +66,11 @@ I'm Ignacio Herrera, a self-taugh engineer, passionate about cybersecurity, dogs
       <br>Postgres
     </td>
     <td align="center"  width="96">
-      <img src="./img/mysql.png" width="48" height="48" alt="MySQL" />
+      <img src="./assets/mysql.png" width="48" height="48" alt="MySQL" />
       <br>MySQL
     </td>
     <td align="center" width="96"> 
-      <img src="./assets/docker.svg" width="48" height="48" alt="Docker" />
+      <img src="./assets/docker.png" width="48" height="48" alt="Docker" />
       <br>Docker
     </td>
     <td align="center"  width="96">
