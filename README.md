@@ -16,19 +16,19 @@ I'm Ignacio Herrera, a self-taugh engineer, passionate about cybersecurity, dogs
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="./assets/javascript.svg" width="48" height="48" alt="Javascript" />
+      <img src="./assets/javascript.png" width="48" height="48" alt="Javascript" />
       <br>Javascript
     </td>
     <td align="center" width="96">
-      <img src="./assets/typescript.svg" width="48" height="48" alt="TypeScript" />
+      <img src="./assets/typescript.png" width="48" height="48" alt="TypeScript" />
       <br>TypeScript
     </td>
     <td align="center" width="96">
-      <img src="./assets/node.svg" width="48" height="48" alt="Node" />
+      <img src="./assets/node.png" width="48" height="48" alt="Node" />
       <br>Node
     </td>
     <td align="center" width="96">
-      <img src="./assets/react.svg" width="48" height="48" alt="React" />
+      <img src="./assets/react.png" width="48" height="48" alt="React" />
       <br>React
     </td>
     <td align="center" width="96">
@@ -36,29 +36,19 @@ I'm Ignacio Herrera, a self-taugh engineer, passionate about cybersecurity, dogs
       <br>Redux
     </td>
     <td align="center" width="96">
-      <img src="./assets/sequelize.svg" width="48" height="48" alt="Sequelize" />
-      <br>Sequelize
-    </td>
-    <td align="center" width="96">
         <img src="./assets/cpp.svg" width="48" height="48" alt="C++" />
       <br>C++
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./assets/python-original.svg" width="48" height="48" alt="Python" />
-      </a>
+      <img src="./assets/python.png" width="48" height="48" alt="Python" />
       <br>Python
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./assets/go-original.svg" width="48" height="48" alt="Golang" />
-      </a>
+      <img src="./assets/golang.png" width="48" height="48" alt="Golang" />
       <br>Golang
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="./assets/haskell.svg" width="48" height="48" alt="Kubernetes" />
-      </a>
+      <img src="./assets/haskell.svg" width="48" height="48" alt="Kubernetes" />
       <br>Haskell
     </td>
   </tr>
@@ -66,6 +56,10 @@ I'm Ignacio Herrera, a self-taugh engineer, passionate about cybersecurity, dogs
     <td align="center" width="96">
       <img src="./assets/graphql.png" width="48" height="48" alt="Graphql" />
       <br>Graphql
+    </td>
+    <td align="center" width="96">
+      <img src="./assets/sequelize.png" width="48" height="48" alt="Sequelize" />
+      <br>Sequelize
     </td>
     <td align="center" width="96">
       <img src="./assets/postgres.png" width="48" height="48" alt="Postgres" />
