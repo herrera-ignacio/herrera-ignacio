@@ -2,7 +2,7 @@
 
 I'm Ignacio Herrera, a self-taugh engineer, passionate about cybersecurity, dogs, and martials-arts. I'm currently living in Buenos Aires, Argentina and working remotely both as a _SR Fullstack Developer_ at [Agile Engine](https://agileengine.com/) and as a freelance consultant.
 
-- 🔭 I’m currently working on: [Architect Handbook](/https://github.com/herrera-ignacio/architect-handbook).
+- 🔭 I’m currently working on: [Architect Handbook](https://github.com/herrera-ignacio/architect-handbook).
 - 🌱 I’m currently learning: _Machine Learning with Python_.
 - 👯 I’m looking to collaborate on: _Cybersecurity projects_.
 - 📫 How to reach me: _Through my [LinkedIn]_.
