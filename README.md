@@ -5,7 +5,7 @@ I'm Ignacio Herrera, a self-taugh engineer, passionate about cybersecurity, dogs
 - 🔭 I’m currently working on: [Architect Handbook](https://github.com/herrera-ignacio/architect-handbook).
 - 🌱 I’m currently learning: _Apache Kafka, Storm & Golang_.
 - 👯 I’m looking to collaborate on: _Cybersecurity projects_.
-- 📫 How to reach me: _Through my [LinkedIn]_.
+- 📫 How to reach me: _Through my [LinkedIn](https://www.linkedin.com/in/ignacioromanherrera/)_.
 - 😄 Nickname: _Nacho_.
 - ⚡ Fun fact: _I live with my girlfriend and our 2 lovely dogs, Pipo & Nina_.
 
