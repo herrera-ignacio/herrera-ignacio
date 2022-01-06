@@ -7,7 +7,7 @@ I'm Ignacio Herrera, a self-taugh engineer, passionate about cybersecurity, dogs
 - 👯 I’m looking to collaborate on: _Blockchain projects_.
 - 📫 How to reach me: _Through my [LinkedIn](https://www.linkedin.com/in/ignacioromanherrera/)_.
 - 😄 Nickname: _Nacho_.
-- ⚡ Fun fact: _I live with my girlfriend and our 2 lovely dogs, Pipo & Nina_.
+- ⚡ Fun fact: _I live with my girlfriend and our 2 beloved dogs, Pipo & Nina_.
 
 #### Favorite Tech
 
