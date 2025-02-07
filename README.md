@@ -1,13 +1,12 @@
 ### Hi there 👋
 
-I'm Ignacio Herrera, a self-taugh engineer, passionate about cybersecurity, dogs, and martials-arts. I'm currently living in Buenos Aires, Argentina and working remotely both as a _SR Fullstack Developer_ at [Agile Engine](https://agileengine.com/) and as a freelance consultant.
+I'm Ignacio Herrera, a self-taugh engineer, passionate about cybersecurity and martials-arts. I'm from Buenos Aires, Argentina and I work remotely as a _Solutions Architect_ at [Agile Engine](https://agileengine.com/) and as a freelance consultant.
 
 - 🔭 I’m mostly working on: [Architect Handbook](https://github.com/herrera-ignacio/architect-handbook).
 - 🌱 I’m currently reading: _The Bitcoin Standard_.
-- 👯 I’m looking to collaborate on: _Blockchain projects_.
-- 📫 How to reach me: _Through my [LinkedIn](https://www.linkedin.com/in/ignacioromanherrera/)_.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ignacioromanherrera/) or [X](https://x.com/bitsofnacho).
 - 😄 Nickname: _Nacho_.
-- ⚡ Fun fact: _I live with my girlfriend and our 2 beloved dogs, Pipo & Nina_.
+- ⚡ Fun fact: _I'm a father of 3 beloved dogs, Pipo, Nina and Shaki_.
 
 #### Favorite Tech
 
