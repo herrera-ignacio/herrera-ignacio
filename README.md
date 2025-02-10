@@ -1,12 +1,13 @@
 ### Hi there 👋
 
-I'm Ignacio Herrera, an argentinian self-taught software engineer, passionate about cybersecurity and martials arts. I'm working as a _Solutions Architect_ at [Agile Engine](https://agileengine.com/) and as a freelance consultant.
+I'm Ignacio Herrera, a 🇦🇷 self-taught software engineer, passionate about cybersecurity and martials arts. I work as a _Solutions Architect_ at [Agile Engine](https://agileengine.com/) and become an indie hacker at night 🦸.
 
-- 🔭 I’m mostly working on: [Architect Handbook](https://github.com/herrera-ignacio/architect-handbook).
-- 🌱 I’m currently reading: _The Bitcoin Standard_.
+- 🧑‍🚀 Nickname: _Nacho_.
+- :shipit: Indie hacker projects: [Fastrack](https://fastrack.ing)
+- 🧑‍🎓 Creating educational content: [Architect Handbook](https://github.com/herrera-ignacio/architect-handbook).
+- 📖 Currently reading: _Artificial Intelligence: A Guid for thinkikng humans_.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ignacioromanherrera/), [X](https://x.com/bitsofnacho), [Instagram](https://www.instagram.com/bitsofnacho), or <a href="mailto:ignacioromanherrera@gmail.com">a good-old email</a>.
-- 😄 Nickname: _Nacho_.
-- ⚡ Fun fact: _I'm a father of 3 beloved dogs, Pipo, Nina and Shaki_.
+- 😛 Fun fact: _I'm a father of 3 beloved dogs, Pipo, Nina and Shaki_.
 
 #### Favorite Tech
 
